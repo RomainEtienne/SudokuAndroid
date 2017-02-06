@@ -1,0 +1,7 @@
+#Mon Feb 06 17:20:12 CET 2017
+base.0=C\:\\Users\\Romain\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1d9e9b04ff086852c2663d9674b2b25c51196f04
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Romain\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c4e49072fcd3fcfb9165a456df15e3f1a7e44f0a\\classes.dex
+base.1=C\:\\Users\\Romain\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c4e49072fcd3fcfb9165a456df15e3f1a7e44f0a
+file.0=C\:\\Users\\Romain\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1d9e9b04ff086852c2663d9674b2b25c51196f04\\classes.dex
